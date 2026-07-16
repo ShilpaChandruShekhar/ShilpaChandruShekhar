@@ -8,8 +8,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jvprakruth004&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/jvprakruth004?label=FOLLOWERS&style=for-the-badge&color=764ba2&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=ShilpaChandruShekhar&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/ShilpaChandruShekhar?label=FOLLOWERS&style=for-the-badge&color=764ba2&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=0d1117" />
 
 </div>
