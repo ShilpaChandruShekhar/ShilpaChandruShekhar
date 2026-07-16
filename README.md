@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:764ba2,100:f5576c&height=220&section=header&text=PRAKRUTH%20J%20V&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20(AI)%20%7C%20Full%20Stack%20%7C%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:764ba2,100:f5576c&height=220&section=header&text=Shilpa%20C&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20(AI)%20&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/ShilpaChandruShekhar">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Full+Stack+Developer+in+Progress;Passionate+Problem+Solver;Welcome+to+my+neural+network+%F0%9F%A4%96" alt="Typing SVG" />
