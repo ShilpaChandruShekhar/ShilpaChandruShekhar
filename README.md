@@ -214,14 +214,9 @@ I'd love to hear from you! Whether it's discussing tech, collaborating on projec
 
 <div align="center">
 
-> **"The beautiful thing about learning is that no one can take it away from you."** — B.B. King
+> **"The beautiful thing about learning is that no one can take it away from you."
 
 ### ⭐ If you find my projects helpful, consider giving them a star!
 
 **Made with ❤️ by shilpa**
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jvprakruth004.jvprakruth004&left_color=0d1117&right_color=00D9FF"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5576c,50:764ba2,100:00D9FF&height=120&section=footer"/>
